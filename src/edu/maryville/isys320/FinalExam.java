@@ -2,7 +2,7 @@ package edu.maryville.isys320;
 
 /*
  * Class:    ISYS-320
- * Student:  <REPLACE WITH YOUR NAME>
+ * Student:  AlfurhudSolomon
  * Date:     30-APR-2018
  */
 
